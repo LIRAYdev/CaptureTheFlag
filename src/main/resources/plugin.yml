@@ -1,0 +1,15 @@
+name: CaptureTheFlag
+version: "2.0.1"
+main: liray.CaptureTheFlagPlugin
+prefix: CTF
+load: STARTUP
+authors: [ LIRAY ]
+depend: [WorldGuard]
+
+commands:
+  CTF:
+    permission: CTF.use
+
+permissions:
+  CTF.use:
+    default: op
