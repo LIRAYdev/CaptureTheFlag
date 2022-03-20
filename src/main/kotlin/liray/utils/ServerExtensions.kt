@@ -1,4 +1,4 @@
-package liray.utils.other
+package liray.utils
 
 import org.bukkit.Bukkit
 import org.bukkit.Server

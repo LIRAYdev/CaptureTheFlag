@@ -13,7 +13,7 @@ repositories {
 
     maven("https://hub.spigotmc.org/nexus/content/repositories/snapshots/")
     maven("https://oss.sonatype.org/content/repositories/snapshots")
-
+    maven("https://jitpack.io")
     maven("https://repo.codemc.org/repository/maven-public/")
     maven("https://maven.sk89q.com/repo/")
     maven("https://maven.enginehub.org/repo/")

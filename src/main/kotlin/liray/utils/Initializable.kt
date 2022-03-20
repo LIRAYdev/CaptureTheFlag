@@ -1,4 +1,4 @@
-package liray.utils.other
+package liray.utils
 
 interface Initializable {
     fun initialize() {}

@@ -9,7 +9,10 @@ depend: [WorldGuard]
 commands:
   CTF:
     permission: CTF.use
-
+  flag:
+    permission: flag.use
 permissions:
   CTF.use:
     default: op
+  flag.use:
+    default: true
